@@ -19,7 +19,7 @@ The app is built using Flutter and the [AniList API](https://docs.anilist.co/), 
 - [x] [**Discover** - Explore anime, manga, characters and more to their fullest](#discover)
 - [x] [**Anime & Manga Details** - Get all the details, stats, reviews, activities, etc. in one place](#anime--manga-details)
 - [x] [**Social** - Connect with fellow Otakus and share your activities](#social)
-- [ ] [**My List** - Keep track of your anime watching and manga reading progress](#my-list)
+- [x] [**My List** - Keep track of your anime watching and manga reading progress](#my-list)
 - [x] [**Profile** - Personalized analytics of your activity, keep favorites and more](#profile)
 
   ### Home
@@ -68,6 +68,9 @@ The app is built using Flutter and the [AniList API](https://docs.anilist.co/), 
 
   ### My List
     Easily track your anime watching and manga reading progress with various tracking options. Stay organized by marking what you’ve completed, paused, or plan to watch, ensuring you never lose track of your progress.
+    <div align="center">
+      <img src="github_assets/my_list.gif" alt="Social" width="250">
+    </div>
 
   ### Profile
     View and manage your personal profile with ease. Access user stats, favorites, reviews, and social features like followers and followings. Stay engaged by tracking your activity and exploring in-depth insights about your interactions and interests.
